@@ -1,0 +1,7 @@
+C:\Users\Joana Ferraz\source\repos\Lista2Ex8\Lista2Ex8\bin\Debug\Lista2Ex8.exe.config
+C:\Users\Joana Ferraz\source\repos\Lista2Ex8\Lista2Ex8\bin\Debug\Lista2Ex8.exe
+C:\Users\Joana Ferraz\source\repos\Lista2Ex8\Lista2Ex8\bin\Debug\Lista2Ex8.pdb
+C:\Users\Joana Ferraz\source\repos\Lista2Ex8\Lista2Ex8\obj\Debug\Lista2Ex8.csproj.AssemblyReference.cache
+C:\Users\Joana Ferraz\source\repos\Lista2Ex8\Lista2Ex8\obj\Debug\Lista2Ex8.csproj.CoreCompileInputs.cache
+C:\Users\Joana Ferraz\source\repos\Lista2Ex8\Lista2Ex8\obj\Debug\Lista2Ex8.exe
+C:\Users\Joana Ferraz\source\repos\Lista2Ex8\Lista2Ex8\obj\Debug\Lista2Ex8.pdb
