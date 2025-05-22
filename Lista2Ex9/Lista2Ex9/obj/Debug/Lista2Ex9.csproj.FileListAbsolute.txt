@@ -1,0 +1,7 @@
+C:\Users\Joana Ferraz\source\repos\Lista2Ex9\Lista2Ex9\bin\Debug\Lista2Ex9.exe.config
+C:\Users\Joana Ferraz\source\repos\Lista2Ex9\Lista2Ex9\bin\Debug\Lista2Ex9.exe
+C:\Users\Joana Ferraz\source\repos\Lista2Ex9\Lista2Ex9\bin\Debug\Lista2Ex9.pdb
+C:\Users\Joana Ferraz\source\repos\Lista2Ex9\Lista2Ex9\obj\Debug\Lista2Ex9.csproj.AssemblyReference.cache
+C:\Users\Joana Ferraz\source\repos\Lista2Ex9\Lista2Ex9\obj\Debug\Lista2Ex9.csproj.CoreCompileInputs.cache
+C:\Users\Joana Ferraz\source\repos\Lista2Ex9\Lista2Ex9\obj\Debug\Lista2Ex9.exe
+C:\Users\Joana Ferraz\source\repos\Lista2Ex9\Lista2Ex9\obj\Debug\Lista2Ex9.pdb
